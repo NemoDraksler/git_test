@@ -1,1 +1,2 @@
 Well, hello there!
+This is an edit to test the -m flag
